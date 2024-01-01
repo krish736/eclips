@@ -1,1 +1,1 @@
-# eclips
+# eclipse
